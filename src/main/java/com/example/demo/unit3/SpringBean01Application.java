@@ -1,7 +1,7 @@
-package com.example.demo.main.unit3;
+package com.example.demo.unit3;
 
-import com.example.demo.main.DemoApplication;
-import com.example.demo.classes.unit3.PriceUnit;
+import com.example.demo.DemoApplication;
+import com.example.demo.unit3.classes.PriceUnit;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

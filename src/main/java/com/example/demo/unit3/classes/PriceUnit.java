@@ -1,4 +1,4 @@
-package com.example.demo.classes.unit3;
+package com.example.demo.unit3.classes;
 
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
@@ -41,8 +41,4 @@ public class PriceUnit {
         log.info("locale is [{}]", locale);
     }
 
-    @Bean
-    public void method() {
-
-    }
 }
